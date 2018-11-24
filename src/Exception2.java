@@ -1,0 +1,8 @@
+public class Exception2 {
+    public static void main(String[] args) {
+        int value;
+        String str = "百二十三";
+
+        value = Integer.parseInt(str);
+    }
+}
